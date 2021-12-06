@@ -1,4 +1,4 @@
-<p align="center"><a href="https://victorrbarbieri.github.io"><img width="60%" src="https://i.gifer.com/origin/99/999b2183c19ca9288a6995c4d7bb0b3e_w200.gif" /></a></p>
+<p align="center"><a href="https://victorrbarbieri.github.io"><img width="40%" src="https://i.gifer.com/origin/99/999b2183c19ca9288a6995c4d7bb0b3e_w200.gif" /></a></p>
 
 <br />
 
