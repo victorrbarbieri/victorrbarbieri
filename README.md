@@ -1,4 +1,4 @@
-<p align="center"><a href="https://victorrbarbieri.github.io"><img width="40%" src="https://i.gifer.com/origin/99/999b2183c19ca9288a6995c4d7bb0b3e_w200.gif" /></a></p>
+<p align="center"><a href="https://victorrbarbieri.github.io"><img width="20%" src="https://i.gifer.com/origin/99/999b2183c19ca9288a6995c4d7bb0b3e_w200.gif" /></a></p>
 
 <br />
 
@@ -28,17 +28,6 @@ I'm a Creator of Software and i´m developer of discord bots
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=victorrbarbieri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrbarbieri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
 <br />
 
 <a href="https://twitter.com/victorrbarbieri">
